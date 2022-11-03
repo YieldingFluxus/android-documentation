@@ -1,5 +1,5 @@
 Once you have fluxus up and running, you will be prompted with a key system similar to the one below
-![[KeyPrompt.png]]
+![KeyPrompt.png](/resources/KeyPrompt.png)
 Simply follow the below instructions:
 1. Click `Get Key`
 2. [Complete the Linkvertise](#how-to-complete-a-linkvertise)

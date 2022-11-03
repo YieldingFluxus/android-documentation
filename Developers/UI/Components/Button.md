@@ -2,7 +2,7 @@ A [Button](https://en.wikipedia.org/wiki/Button_(computing)) is the simplest typ
 ### Active vs Passive Buttons
 Activie buttons are meant as a more "primary" type of button, where passive ones are more "secondary".
 Below, there's an image comparing the two:
-![[ActiveVsPassive.png]]
+![ActiveVsPassive.png](/resources/ActiveVsPassive.png)
 ## Constructor
 ```ts
 export function(state: 'active'|'passive', buttonText: string, sidebarText: string, callback?: ()=>any): ButtonComponent;

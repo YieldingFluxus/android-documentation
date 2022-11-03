@@ -4,7 +4,7 @@ On Fluxus Android, there are a variety of ways to execute your scripts:
 2. Open Fluxus Android
 3. Join a game, complete the [Key System](/Getting%20Started/Key%20System)
 4. Click the `Games` tab (see image)
-   ![[ScriptsTab.png]]
+![ScriptsTab.png](/resources/ScriptsTab.png)
 5. Type for the name of the game you want to find a script for in the searchbox, then click `Submit`
    > If you know your script's name, you can also look for that
    > Some games will automatically show scripts Fluxus thinks might be relevant to that game. You can skip this step if you want to try one of those
