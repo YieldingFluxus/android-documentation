@@ -16,4 +16,4 @@ Once you have Roblox w/ Fluxus open, join a game & continue to [Using the Key Sy
 
 ## Developers
 
-If you're a developer, read the [Developer Documentation](APIs.md)
+If you're a developer, read the [Developer Documentation](README.md)

@@ -25,5 +25,5 @@ On Fluxus Android, there are a variety of ways to execute your scripts:
 5. Done!
 
 ## What's Next?
-If you're a developer, take a look at [Developer Documentation](/Developers/APIs)
+If you're a developer, take a look at [Developer Documentation](README.md)
 If you want to change your settings, you should look at [Settings](/Getting%20Started/Settings)

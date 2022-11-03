@@ -88,15 +88,15 @@ tab:Focus();
 ```
 ---
 ## Components
-- [Base](/Developers/UI/Components/Base)
-- [Text](/Developers/UI/Components/Text)
-- [Button](/Developers/UI/Components/Button)
-- [Checkbox](/Developers/UI/Components/Checkbox)
-- [Textbox + TextBoxMultiLine](/Developers/UI/Components/Textbox)
-- [Image](/Developers/UI/Components/Image)
-- [Spacer](/Developers/UI/Components/Spacer)
-- [Search](/Developers/UI/Components/Search)
-- [ExecBox](/Developers/UI/Components/ExecBox) _Internal, you likely don't have a use for this._
+- [Base](/Developers/UI/Components/Base.md)
+- [Text](/Developers/UI/Components/Text.md)
+- [Button](/Developers/UI/Components/Button.md)
+- [Checkbox](/Developers/UI/Components/Checkbox.md)
+- [Textbox + TextBoxMultiLine](/Developers/UI/Components/Textbox.md)
+- [Image](/Developers/UI/Components/Image.md)
+- [Spacer](/Developers/UI/Components/Spacer.md)
+- [Search](/Developers/UI/Components/Search.md)
+- [ExecBox](/Developers/UI/Components/ExecBox.md) _Internal, you likely don't have a use for this._
 ---
 ## Polyfill
 > Currently not implemented. This "polyfill" will let you use the exact same code you're using to integrate with the Android UI, as a standalone UI Library for Desktop.
