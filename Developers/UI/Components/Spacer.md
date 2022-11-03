@@ -1,3 +1,4 @@
+# Spacer
 ## Constructor
 ```ts
 export function(height?: number): SpacerComponent;

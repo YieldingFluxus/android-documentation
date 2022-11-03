@@ -1,1 +1,2 @@
+# Settings
 > To be documented.

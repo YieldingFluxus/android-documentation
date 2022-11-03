@@ -1,3 +1,4 @@
+# Base
 This is the "base" component. It cannot be directly created, however it's bethods can be called on any component.
 
 ## Methods

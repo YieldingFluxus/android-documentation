@@ -1,3 +1,4 @@
+# Text
 ## Constructor
 ```ts
 export function(text: string): TextComponent;

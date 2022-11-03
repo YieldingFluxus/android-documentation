@@ -1,3 +1,4 @@
+# Introduction
 Welcome to the Fuuuuuuuuuuuuuuuuuuux 🤯 Android Documentation
 
 This contains both instructions on how to use Fluxus, aswell as how developers can use it's APIs.

@@ -1,3 +1,4 @@
+# Checkbox
 ## Constructor
 ```ts
 export function(text: string, checked?: boolean = false): TextComponent;

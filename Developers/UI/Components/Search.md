@@ -1,3 +1,4 @@
+# Search
 ## Constructor
 ```ts
 export function(callback: (text:string)=>any): SearchComponent;

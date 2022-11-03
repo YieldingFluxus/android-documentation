@@ -1,3 +1,4 @@
+# Priorities
 The Fluxus Android ScriptBlox Search Integration adds some additional priorities ontop of the ones in ScriptBlox's built in search.
 This prioritization is done using points; the more points, the higher up the script, the more users will find it.
 

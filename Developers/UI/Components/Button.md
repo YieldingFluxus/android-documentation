@@ -1,3 +1,4 @@
+# Button
 A [Button](https://en.wikipedia.org/wiki/Button_(computing)) is the simplest type of input, triggered by a user tapping/clicking the button.
 ### Active vs Passive Buttons
 Activie buttons are meant as a more "primary" type of button, where passive ones are more "secondary".

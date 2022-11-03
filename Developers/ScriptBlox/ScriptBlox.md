@@ -1,3 +1,4 @@
+# ScriptBlox
 This directory documents ScriptBlox-related features.
 
 - [API](/Developers/ScriptBlox/API) | Documentation for the Scriptblox API global

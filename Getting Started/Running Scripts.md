@@ -1,3 +1,4 @@
+# Running Scripts
 On Fluxus Android, there are a variety of ways to execute your scripts:
 ## Using Scriptblox (recommended)
 1. Copy your script to your clipboard
