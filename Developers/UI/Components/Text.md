@@ -3,7 +3,7 @@
 ```ts
 export function(text: string): TextComponent;
 ```
-Creates a new Text [Component](/Developers/UI/UI%20Library#components) with the contents of `text`. This supports [Rich Text](https://create.roblox.com/docs/building-and-visuals/ui/rich-text)[\*](#setrichtextenabled) & newlines.
+Creates a new Text [Component](/Developers/UI/README.md#components) with the contents of `text`. This supports [Rich Text](https://create.roblox.com/docs/building-and-visuals/ui/rich-text)[\*](#setrichtextenabled) & newlines.
 ### Example
 ```lua
 local text = tab:Create('Text', '<i>Hello</i> World');
